@@ -7,4 +7,5 @@ This repo exists just to help with packaging. Copyrights belong to the controlle
 * arcconf - Adaptec
 * cli64 - Areca
 * megacli - LSI/Avago MegaRAID (also Dell PERC)
-* sas2ircu - LSI/Avago Fusion-MPT
+* sas2ircu - LSI/Avago Fusion-MPT SAS-2
+* sas3ircu - LSI/Avago Fusion-MPT SAS-3
